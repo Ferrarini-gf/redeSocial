@@ -6,6 +6,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
     const likesCountSpan = likeBtn.querySelector("likes-count");
     const bookmarkBtn = document.querySelector(".bookmark-btn");
 
-    let isLI
+    let isLiked = ffalse;
+    let baseLikes = 0;
 
 })
